@@ -10,9 +10,18 @@ namespace TMS.Net07.Homework.HelloWorld
     {
         static void Main(string[] args)
         {
+            int number;
             Console.Write("insert the number:");
-            int number = int.Parse(Console.ReadLine());
-            Console.WriteLine(number);
+            string input = Console.ReadLine();
+            bool result = int.TryParse(input, out number);
+            if (result == true)
+            {
+                Console.WriteLine(number);
+            }
+            else
+            {
+                Console.Write($"\"{input}\" is not a number");
+            }   
             Console.ReadKey();
         }
     }
