@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMS.Net07.Homework.HelloWorld", "TMS.Net07.Homework.HelloWorld\TMS.Net07.Homework.HelloWorld.csproj", "{DB924D6E-274E-4F22-9794-0BE45EBC0705}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2easy.enumDaysOfWeek", "Task2easy.enumDaysOfWeek\Task2easy.enumDaysOfWeek.csproj", "{52916558-06C1-4AE5-9142-660B79867D8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DB924D6E-274E-4F22-9794-0BE45EBC0705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DB924D6E-274E-4F22-9794-0BE45EBC0705}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DB924D6E-274E-4F22-9794-0BE45EBC0705}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DB924D6E-274E-4F22-9794-0BE45EBC0705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52916558-06C1-4AE5-9142-660B79867D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52916558-06C1-4AE5-9142-660B79867D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52916558-06C1-4AE5-9142-660B79867D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52916558-06C1-4AE5-9142-660B79867D8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F0D56ABF-8ECF-447F-972C-90F0486E9E06}
+		SolutionGuid = {15CF5405-13DB-4AB2-8CCD-8B0AB6FEFB3B}
 	EndGlobalSection
 EndGlobal

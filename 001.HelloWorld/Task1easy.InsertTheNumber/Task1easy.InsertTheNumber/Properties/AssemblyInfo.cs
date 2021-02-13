@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("TMS.Net07.Homework.HelloWorld")]
+[assembly: AssemblyTitle("Task1easy.InsertTheNumber")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TMS.Net07.Homework.HelloWorld")]
+[assembly: AssemblyProduct("Task1easy.InsertTheNumber")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("db924d6e-274e-4f22-9794-0be45ebc0705")]
+[assembly: Guid("d0f7bbc1-c467-4278-8b07-a5224cb742c6")]
 
 // Version information for an assembly consists of the following four values:
 //

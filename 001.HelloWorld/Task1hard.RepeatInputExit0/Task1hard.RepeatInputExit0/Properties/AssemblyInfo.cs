@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("TMS.Net07.Homework.DaysOfWeek")]
+[assembly: AssemblyTitle("Task1hard.RepeatInputExit0")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TMS.Net07.Homework.DaysOfWeek")]
+[assembly: AssemblyProduct("Task1hard.RepeatInputExit0")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("afaa3fab-499d-4ff9-9503-d11e50584023")]
+[assembly: Guid("8da8c7d2-96ee-4ebc-94f9-87b9334c6e01")]
 
 // Version information for an assembly consists of the following four values:
 //
